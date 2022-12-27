@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    body{
+        color: black;
+        margin: 10px 20px;
+        padding: 2px;
+    }
+    h1,h3{
+        text-align: center;
+    }
+    h1,h4{
+        color: orangered;
+    }
+    h3{
+        float: center;
+        color:royalblue;
+        background-color: mistyrose;
+    }
+    hr{
+         margin-top: 10px;
+         margin-bottom: 10px;
+    }
+    p{
+    color: blue;
+    }	
+    footer{
+        color: white;
+        text-align: center;
+        background-color: black;
+    }
+    a{
+        color: lightcoral;
+    }
